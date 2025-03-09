@@ -1,0 +1,17 @@
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\pokemondeks.Form1.resources
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\pokemondeks.Resource1.resources
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\pokemondeks.csproj.GenerateResource.cache
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\pokemondeks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\pokemondeks.AssemblyInfoInputs.cache
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\pokemondeks.AssemblyInfo.cs
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\pokemondeks.csproj.CoreCompileInputs.cache
+E:\Mas Cs\pokemondeks\bin\Debug\net9.0-windows\pokemondeks.exe
+E:\Mas Cs\pokemondeks\bin\Debug\net9.0-windows\pokemondeks.deps.json
+E:\Mas Cs\pokemondeks\bin\Debug\net9.0-windows\pokemondeks.runtimeconfig.json
+E:\Mas Cs\pokemondeks\bin\Debug\net9.0-windows\pokemondeks.dll
+E:\Mas Cs\pokemondeks\bin\Debug\net9.0-windows\pokemondeks.pdb
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\pokemondeks.dll
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\refint\pokemondeks.dll
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\pokemondeks.pdb
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\pokemondeks.genruntimeconfig.cache
+E:\Mas Cs\pokemondeks\obj\Debug\net9.0-windows\ref\pokemondeks.dll
